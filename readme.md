@@ -2,7 +2,7 @@
 
 ![alter text](https://img.shields.io/badge/HTML-CSS-orange)
 
-# Project 1 [Live Link](https://polite-moxie-623a55.netlify.app/)
+# Project 1 [Live Link](https://project-1-theanuragharne.netlify.app/)
 
 ### First the basic structure of HTML write it down
 ### In the CSS part we try to make our webpage better
